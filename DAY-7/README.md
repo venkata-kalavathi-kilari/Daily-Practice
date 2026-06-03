@@ -1,6 +1,6 @@
 # Replace with Adjacent Multiplication
 
-## Problem Statement
+## Problem 
 
 Given an array `arr[]`, replace each element with the product of itself and its adjacent elements.
 
