@@ -1,6 +1,6 @@
 # Second Largest Element in an Array
 
-## Problem Summary
+## Problem 
 
 Given an array of integers, find the second largest element in the array without sorting it.
 
