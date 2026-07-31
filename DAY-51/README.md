@@ -19,7 +19,6 @@ Given an array `arr[]` containing only `0`s, `1`s, and `2`s, sort the array in a
    - Decrement `hi`.
 6. Continue until `mid` crosses `hi`.
 ## Example
-
 ### Input
 arr = [0, 2, 1, 2, 0, 1]
 
