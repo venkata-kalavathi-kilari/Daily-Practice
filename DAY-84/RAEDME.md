@@ -1,6 +1,7 @@
 # Construct a Linked List Matrix from a 2D Array
 
 ## Problem
+
 Given a 2D array, create a linked structure where each element is represented by a node.
 
 Each node contains:
