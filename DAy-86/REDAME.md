@@ -1,5 +1,4 @@
 # Delete N Nodes After M Nodes of a Linked List
-
 ## Problem
 Given a linked list, delete `N` nodes after every `M` nodes until the end of the list.
 
