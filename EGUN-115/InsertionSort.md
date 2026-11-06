@@ -11,7 +11,6 @@ Insertion Sort builds the sorted array one element at a time by taking an elemen
 ```java
 arr = [5, 3, 4, 1, 2]
 ```
-
 **Output:**
 ```java
 [1, 2, 3, 4, 5]
