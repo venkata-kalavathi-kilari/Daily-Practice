@@ -19,7 +19,7 @@ The sorting must be done **in-place**.
 5. Swap the element at `i` with the element at `minIndex`.
 6. Repeat until the array is sorted.
 7. Print the sorted array.
-## Example 1
+## Example 
 
 ### Input
 6
@@ -35,3 +35,39 @@ The sorting must be done **in-place**.
 ## Space Complexity
 
 **O(1)**
+
+# Bubble Sort
+
+## Problem
+
+Given an array of integers, sort the array in ascending order using the Bubble Sort algorithm.
+
+## Algorithm
+
+1. Traverse the array using the outer loop from `i = 0` to `n - 1`.
+2. For each element, traverse the remaining elements using the inner loop from `j = i + 1` to `n - 1`.
+3. Compare `arr[i]` with `arr[j]`.
+4. If `arr[i] > arr[j]`, swap the elements.
+5. Repeat until the array is sorted.
+6. Print the sorted array.
+
+## Example
+
+### Input
+```text
+5
+5 3 1 4 2
+```
+
+### Output
+```text
+1 2 3 4 5
+```
+
+## Time Complexity
+
+**O(n²)** 
+
+## Space Complexity
+
+**O(1)** 
